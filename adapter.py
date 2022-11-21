@@ -62,7 +62,7 @@ class Host(NPC):
         self.name = "Lucas"
 
     def catchprase(self) -> str:
-        return "Estou cansado!"
+        return "Im extremely tired!"
 
 
 if __name__ == '__main__':
